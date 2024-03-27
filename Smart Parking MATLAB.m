@@ -28,7 +28,7 @@ writeDigitalPin (a, LED_Red,1); %default red light on for restrict the vehicle
  clearLCD(lcd); 
  
  %Group members Information & IDs
- printLCD(lcd,'1) Shravan M C');
+ printLCD(lcd,'1) Gururaja S R');
  
  pause(1); 
  clearLCD(lcd);
