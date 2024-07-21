@@ -21,7 +21,7 @@ The Smart Parking Management System is a project designed to efficiently manage 
 
 ## Circuit Diagram
 
-![Circuit Diagram](path-to-circuit-diagram)
+![Circuit Diagram](LCD_schem.png)
 
 ## Code
 
